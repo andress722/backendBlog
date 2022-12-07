@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_sections_devs",
+  "info": {
+    "displayName": "dev"
+  },
+  "options": {},
+  "attributes": {
+    "aboutDev": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    },
+    "imgdev": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
